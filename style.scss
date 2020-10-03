@@ -66,15 +66,18 @@ nav {
     }
     .float {
         border: 1px solid black;
-        width: 45%;
-        margin-right: 2%;
-        margin-left: 2%;
+        width: 48%;
         margin-top: 2%;
         padding-top: 40vh;
         padding-bottom: 40vh;
-        float: left;
         text-align: center;
         text-justify: distribute-all-lines;
+    }
+    .R {
+        float: right;
+    }
+    .L {
+        float: left;
     }
 }
 
